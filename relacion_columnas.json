@@ -1,0 +1,8 @@
+{
+    "CALLE":    "domicilio",
+    "N_EXT":    "numero",
+    "COLONIA":  "referencia_2",
+    "MUN":      "municipio",
+    "ENT":      "entidad",
+    "CP":       "cp"
+}

@@ -1,0 +1,32 @@
+{
+    "streets": {
+        "AV":   "AVENIDA",
+        "ING":  "ING.",
+        "DR":   "DOCTOR",
+        "CDA":  "CERRADA",
+        "RT":   "RETORNO",
+        "ANT":  "ACTIGUA",
+        "GRAL": "GRAL.",
+        "AND":  "ANDADOR",
+        "PROL": "PROLONGACIÓN",
+        "CALZ": "CALZADA",
+        "CARR": "CARRETERA",
+        "BLVD": "BOULEVARD",
+        "BLVR": "BOULEVARD",
+        "STA":  "SANTA",
+        "OTE":  "ORIENTE",
+        "PRIV": "PRIVADA",
+        "FCO":  "FRANCISCO",
+        "RNDA": "RINCONADA",
+        "CJON": "CALLEJON",
+        "NI¥OS": "NIÑOS"
+    },
+    "colonies": {
+        "FCO": "FRANCISCO",
+        " BO": " BARRIO",
+        "AMPL": "AMPLIACIÓN",
+        "STA": "SANTA",
+        "STO": "SANTO",
+        "FRACC": "FRACCIONAMIENTO"
+    }
+}
