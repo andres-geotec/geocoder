@@ -1,5 +1,14 @@
 # Geocoder
 
+Éste script geocodifica una tabla que contenga los datos necesarios para construir direcciones.
+
+- CALLE
+- N_EXT
+- COLONIA
+- MUN
+- ENT
+- CP
+
 # Requerimientos:
 - Python 3.9
 - Archivo original de entrada en .xlsx
@@ -21,7 +30,7 @@
 
 ### Para ejecutar
 
-- Adecuar variables del 
+- Adecuar variables del archivo "relacion_columnas.json"
 - Correr script
 `python georef.py <archivo_original> <id>`
 
